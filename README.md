@@ -8,9 +8,8 @@ e identificar puntos clave dónde mejorar, basándonos en datos históricos usan
 🗻 Estructura del Proyecto:
 
 ├── data/ # Datos crudos
-
+├── img/ # Imágenes usadas en el README.md
 ├── results/ # archivo de resultados con DB interactivo
-
 ├── README.md # Descripción del proyecto
 
 Este proyecto no requiere librerías ni dependencias externas.
