@@ -32,13 +32,13 @@ El único requisito es tener instalado Microsoft Excel (versión 2016 o superior
     - 2024: A Coruña
     - 2025: Toledo
 
-2023:
+2023:   
 ![2023](img/2023.png)
 
-2024:
+2024:   
 ![2024](img/2024.png)
 
-2025:
+2025:   
 ![2025](img/2025.png)
 
 
