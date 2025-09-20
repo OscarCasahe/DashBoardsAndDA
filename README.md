@@ -5,17 +5,19 @@ Este proyecto consta con un análisis exporatorio y predictivo centrado en las c
 entre 2023 y 2025 (inclusives). El objetivo es realizar posibles predicciones de cara a futuras campañas de marketing
 e identificar puntos clave dónde mejorar, basándonos en datos históricos usando técnicas de modelado estadístico.
 
-🗻 Estructura del Proyecto;
+🗻 Estructura del Proyecto:
 
 ├── data/ # Datos crudos
+
 ├── results/ # archivo de resultados con DB interactivo
+
 ├── README.md # Descripción del proyecto
 
 Este proyecto no requiere librerías ni dependencias externas.
 El único requisito es tener instalado Microsoft Excel (versión 2016 o superior) o cualquier software compatible con archivos .xlsx.
 
 
-📈 Resultados y Conclusiones
+📈 Resultados y Conclusiones:
 
 - Identificamos que las mujeres son responsables del 59,65% ( 995.557 € ) de los beneficios totales ( 1.668.719 € ).
 
@@ -31,14 +33,6 @@ El único requisito es tener instalado Microsoft Excel (versión 2016 o superior
     - 2024: A Coruña
     - 2025: Toledo
 
-- Se analiza que los trimestres más "fuertes" del año suelen coincidir con las campañas de inicio de verano y navidades.
-
-- La diferencia entre compras online y en tienda física van fluctuando con el tiempo pero ambas parecen ir de la mano.
-    ![tipo_compra](img/tipo_compra.png)
-
-- En los tipos de estado predominan los pedidos entregados sin problema, aunque hay un porcentaje llamaito de pedidos "En Proceso" (cambio de tallaje). El porcentaje de devoluciones se puede ver incrementado por la aparición de las compras online y la práctica común por parte del usuario de adquirir varias prendas para poder probarse varias tallas desde la comodidad de su casa, no tiene por qué ser un problema directo de la empresa.
-    ![tipo_estado](img/tipo_estado.png)
-
 2023:
 ![2023](img/2023.png)
 
@@ -47,6 +41,20 @@ El único requisito es tener instalado Microsoft Excel (versión 2016 o superior
 
 2025:
 ![2025](img/2025.png)
+
+
+- Se analiza que los trimestres más "fuertes" del año suelen coincidir con las campañas de inicio de verano y navidades.
+
+    ![picos_tiempo](img/picos_tiempo.png)
+
+- La diferencia entre compras online y en tienda física van fluctuando con el tiempo pero ambas parecen ir de la mano.
+
+    ![tipo_compra](img/tipo_compra.png)
+
+- En los tipos de estado predominan los pedidos entregados sin problema, aunque hay un porcentaje llamaito de pedidos "En Proceso" (cambio de tallaje). El porcentaje de devoluciones se puede ver incrementado por la aparición de las compras online y la práctica común por parte del usuario de adquirir varias prendas para poder probarse varias tallas desde la comodidad de su casa, no tiene por qué ser un problema directo de la empresa.
+    
+    ![tipo_estado](img/tipo_estado.png)
+
 
 
 📖 Próximos Pasos:
