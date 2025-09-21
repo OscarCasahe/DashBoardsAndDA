@@ -42,7 +42,7 @@ El único requisito es tener instalado Microsoft Excel (versión 2016 o superior
 
 - En los tipos de estado predominan los pedidos completados, aunque hay un porcentaje llamaito de pedidos "Cambio de Tallaje". 
     
-    ![tipo_estado](image.png)
+    ![tipo_estado](img/tipo_estado.png)
 
 
 📖 Próximos Pasos:
