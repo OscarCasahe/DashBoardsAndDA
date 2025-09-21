@@ -24,23 +24,13 @@ El único requisito es tener instalado Microsoft Excel (versión 2016 o superior
 
     - Hombre: ➕ M / ➖ XXL
     - Mujer: ➕ XS / ➖ XXL
-    - Otro: ➕ M / ➖ XXL
+    - No Especificado: ➕ M / ➖ XXL
 
 - Se puede comprobar que las provincias más fieles a la compañía por año han sido:
 
-    - 2023: Granada
-    - 2024: A Coruña
-    - 2025: Toledo
-
-2023:   
-![2023](img/2023.png)
-
-2024:   
-![2024](img/2024.png)
-
-2025:   
-![2025](img/2025.png)
-
+    - 2023: Oviedo
+    - 2024: Bilbao
+    - 2025: Oviedo 
 
 - Se analiza que los trimestres más "fuertes" del año suelen coincidir con las campañas de inicio de verano y navidades.
 
@@ -50,10 +40,9 @@ El único requisito es tener instalado Microsoft Excel (versión 2016 o superior
 
     ![tipo_compra](img/tipo_compra.png)
 
-- En los tipos de estado predominan los pedidos entregados sin problema, aunque hay un porcentaje llamaito de pedidos "En Proceso" (cambio de tallaje). El porcentaje de devoluciones se puede ver incrementado por la aparición de las compras online y la práctica común por parte del usuario de adquirir varias prendas para poder probarse varias tallas desde la comodidad de su casa, no tiene por qué ser un problema directo de la empresa.
+- En los tipos de estado predominan los pedidos completados, aunque hay un porcentaje llamaito de pedidos "Cambio de Tallaje". 
     
-    ![tipo_estado](img/tipo_estado.png)
-
+    ![tipo_estado](image.png)
 
 
 📖 Próximos Pasos:
