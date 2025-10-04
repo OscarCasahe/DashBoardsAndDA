@@ -49,5 +49,11 @@ El único requisito es tener instalado Microsoft Excel (versión 2016 o superior
 
 Teniendo en cuenta que este análisis está hecho con datos fictícios generados de manera aleatória teniendo en cuenta una secuencia de parámetros, la idea a futuro sería poder aplicar la metodología implementada en datos reales sobre las ventas y beneficios oficiales de ZARA e incluso realizar comparaciones con diversas franquicias de Inditex.
 
+
+🤝 Contribuciones
+
+Las contribuciones son bienvenidas. Si deseas mejorar el proyecto, por favor
+abre un pull request o una issue.
+
 - Óscar Casanova
 - [@OscarCasahe](https://github.com/OscarCasahe)
